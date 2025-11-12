@@ -8,9 +8,6 @@ import { IsAuthController } from "./controllers/user/IsAuthController";
 import { ListRegisteredVouchersController } from "./controllers/voucher/ListRegisteredVouchersController";
 import { DeleteVoucherController } from "./controllers/voucher/DeleteVoucherController";
 
-
-
-
 const router = Router();
 
 // User Routes
